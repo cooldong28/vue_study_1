@@ -1,0 +1,30 @@
+{
+  "name": "vue_study_1_blog",
+  "version": "1.0.0",
+  "description": "vue study -- blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cooldong28/vue_study_1.git"
+  },
+  "keywords": [
+    "study"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cooldong28/vue_study_1/issues"
+  },
+  "homepage": "https://github.com/cooldong28/vue_study_1#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^7.1.3",
+    "babel-preset-env": "^1.6.1",
+    "html-webpack-plugin": "^3.0.4",
+    "vue": "^2.5.13",
+    "webpack": "^4.1.0"
+  }
+}
